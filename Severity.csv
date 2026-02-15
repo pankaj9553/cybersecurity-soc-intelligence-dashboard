@@ -1,0 +1,6 @@
+Severity_ID,Severity_Level,Risk_Score
+S1,Low,1
+S2,Medium,3
+S3,High,5
+S4,Critical,8
+S5,Severe,10

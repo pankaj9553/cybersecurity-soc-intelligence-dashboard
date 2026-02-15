@@ -1,0 +1,56 @@
+Cybersecurity SOC Intelligence – Key Insights
+
+1.  Overall Cyber Posture
+
+-   Total Cyber Attacks recorded: 6000
+-   High Severity Attacks: 1782 (29.7% of total)
+-   Attack Growth increased significantly year-over-year (122% growth).
+-   Risk Severity Score indicates elevated enterprise exposure.
+
+2.  Attack Pattern Intelligence
+
+-   DDoS is the dominant attack vector (35.7% of total incidents).
+-   Phishing contributes 7.2% of attacks.
+-   Critical and Severe attacks together represent nearly 30% of all
+    incidents.
+-   DDoS generates the highest packet and data transfer volume.
+-   Impact and Reconnaissance tactics dominate MITRE tactic mapping.
+
+3.  Geographic Risk Exposure
+
+-   High concentration of attacks observed across North America, Europe,
+    and Asia.
+-   Threat distribution suggests globally distributed attack sources.
+
+4.  System & Infrastructure Risk
+
+-   Firewall Appliance and Cloud VM Instances are the most targeted
+    assets.
+-   Web-based systems show higher exposure risk.
+-   Business Criticality Index indicates high-value infrastructure under
+    frequent attack.
+-   Risk Score across systems remains consistently elevated.
+
+5.  Incident Response Performance
+
+-   Mean Time To Detect (MTTD): 7.43 minutes.
+-   Mean Time To Respond (MTTR): 39.35 minutes.
+-   Escalation Rate: 67.45% (high operational workload).
+-   Closed Incident Rate: ~49.9%.
+-   Root causes mainly linked to Credential Leaks and Configuration
+    Weakness.
+
+6.  SOC Operational Observations
+
+-   Escalation Levels are evenly distributed, indicating consistent
+    multi-tier handling.
+-   Open incidents remain high, indicating need for improved response
+    automation.
+-   Critical Resolution Time remains elevated compared to overall
+    average response time.
+
+Conclusion: The enterprise faces significant DDoS-driven threat activity
+with high criticality exposure across core infrastructure systems. While
+detection time is efficient, response time and escalation rate indicate
+operational strain. Enhanced automation, stronger credential management,
+and firewall hardening are recommended.

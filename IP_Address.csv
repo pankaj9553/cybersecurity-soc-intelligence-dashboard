@@ -1,0 +1,301 @@
+IP_ID,IP_Address,ISP,Threat_Reputation
+IP0001,173.57.12.140,Cloud Provider,Malicious
+IP0002,45.52.44.216,Telecom ISP,Malicious
+IP0003,33.111.119.13,Cloud Provider,Under Monitoring
+IP0004,176.214.112.229,Unknown ISP,Malicious
+IP0005,204.81.216.174,Unknown ISP,Malicious
+IP0006,65.172.52.47,Enterprise ISP,Malicious
+IP0007,101.176.135.22,Enterprise ISP,Under Monitoring
+IP0008,41.193.40.150,Unknown ISP,Under Monitoring
+IP0009,59.35.23.116,Unknown ISP,Malicious
+IP0010,228.119.51.194,Unknown ISP,Suspicious
+IP0011,172.186.83.189,Unknown ISP,Malicious
+IP0012,181.136.36.87,Cloud Provider,Malicious
+IP0013,128.194.138.112,Unknown ISP,Malicious
+IP0014,68.16.161.205,Unknown ISP,Malicious
+IP0015,64.161.108.255,Enterprise ISP,Under Monitoring
+IP0016,127.73.135.71,Cloud Provider,Under Monitoring
+IP0017,153.134.219.204,Unknown ISP,Malicious
+IP0018,45.252.46.24,Telecom ISP,Malicious
+IP0019,170.81.216.32,Enterprise ISP,Suspicious
+IP0020,162.239.128.5,Telecom ISP,Under Monitoring
+IP0021,236.136.174.57,Unknown ISP,Suspicious
+IP0022,50.232.1.134,Cloud Provider,Under Monitoring
+IP0023,243.54.152.101,Cloud Provider,Suspicious
+IP0024,205.82.0.165,Enterprise ISP,Malicious
+IP0025,38.185.157.122,Telecom ISP,Malicious
+IP0026,234.40.43.248,Telecom ISP,Under Monitoring
+IP0027,206.64.65.243,Cloud Provider,Suspicious
+IP0028,145.216.108.102,Unknown ISP,Suspicious
+IP0029,181.191.224.231,Telecom ISP,Malicious
+IP0030,67.32.173.10,Cloud Provider,Under Monitoring
+IP0031,66.3.36.30,Cloud Provider,Malicious
+IP0032,241.16.169.36,Cloud Provider,Suspicious
+IP0033,181.248.109.67,Enterprise ISP,Malicious
+IP0034,210.242.208.97,Telecom ISP,Malicious
+IP0035,178.220.181.216,Enterprise ISP,Suspicious
+IP0036,231.27.50.31,Enterprise ISP,Under Monitoring
+IP0037,96.55.127.98,Cloud Provider,Under Monitoring
+IP0038,124.71.216.93,Unknown ISP,Suspicious
+IP0039,73.38.226.50,Telecom ISP,Under Monitoring
+IP0040,148.7.47.121,Cloud Provider,Suspicious
+IP0041,134.246.109.205,Telecom ISP,Malicious
+IP0042,107.1.199.135,Enterprise ISP,Suspicious
+IP0043,118.249.79.97,Unknown ISP,Malicious
+IP0044,24.31.160.29,Telecom ISP,Under Monitoring
+IP0045,132.80.29.41,Cloud Provider,Malicious
+IP0046,162.34.120.206,Telecom ISP,Under Monitoring
+IP0047,73.20.41.214,Unknown ISP,Suspicious
+IP0048,62.160.122.135,Enterprise ISP,Malicious
+IP0049,181.153.234.161,Telecom ISP,Malicious
+IP0050,127.51.37.109,Unknown ISP,Malicious
+IP0051,248.178.35.125,Unknown ISP,Suspicious
+IP0052,50.224.154.4,Unknown ISP,Under Monitoring
+IP0053,36.68.135.59,Telecom ISP,Under Monitoring
+IP0054,151.79.139.144,Cloud Provider,Under Monitoring
+IP0055,97.104.135.250,Unknown ISP,Malicious
+IP0056,33.216.141.22,Telecom ISP,Suspicious
+IP0057,207.66.134.82,Enterprise ISP,Under Monitoring
+IP0058,190.218.4.57,Telecom ISP,Under Monitoring
+IP0059,241.76.18.189,Cloud Provider,Suspicious
+IP0060,42.21.157.186,Telecom ISP,Suspicious
+IP0061,63.127.52.181,Enterprise ISP,Under Monitoring
+IP0062,201.79.121.83,Cloud Provider,Suspicious
+IP0063,16.91.170.210,Cloud Provider,Suspicious
+IP0064,50.55.195.19,Enterprise ISP,Malicious
+IP0065,61.235.179.156,Cloud Provider,Malicious
+IP0066,16.98.204.168,Unknown ISP,Malicious
+IP0067,207.142.179.204,Unknown ISP,Malicious
+IP0068,39.133.91.135,Telecom ISP,Malicious
+IP0069,162.222.176.160,Enterprise ISP,Under Monitoring
+IP0070,140.59.197.97,Unknown ISP,Malicious
+IP0071,191.223.0.100,Unknown ISP,Suspicious
+IP0072,27.169.160.63,Unknown ISP,Under Monitoring
+IP0073,89.209.167.206,Unknown ISP,Under Monitoring
+IP0074,42.98.215.194,Cloud Provider,Under Monitoring
+IP0075,155.154.207.0,Unknown ISP,Suspicious
+IP0076,63.220.164.238,Enterprise ISP,Suspicious
+IP0077,182.109.242.86,Telecom ISP,Suspicious
+IP0078,141.171.47.120,Unknown ISP,Malicious
+IP0079,216.101.75.12,Telecom ISP,Malicious
+IP0080,131.37.233.212,Cloud Provider,Under Monitoring
+IP0081,188.196.253.204,Cloud Provider,Malicious
+IP0082,177.2.54.217,Cloud Provider,Malicious
+IP0083,215.237.25.127,Telecom ISP,Suspicious
+IP0084,44.237.162.226,Enterprise ISP,Under Monitoring
+IP0085,124.81.243.230,Unknown ISP,Malicious
+IP0086,225.141.248.122,Unknown ISP,Suspicious
+IP0087,29.146.120.139,Unknown ISP,Suspicious
+IP0088,238.41.70.77,Cloud Provider,Suspicious
+IP0089,187.78.109.32,Enterprise ISP,Suspicious
+IP0090,94.238.212.31,Cloud Provider,Suspicious
+IP0091,109.10.194.244,Telecom ISP,Suspicious
+IP0092,86.199.214.112,Enterprise ISP,Malicious
+IP0093,79.223.248.14,Enterprise ISP,Suspicious
+IP0094,181.207.84.239,Cloud Provider,Under Monitoring
+IP0095,146.13.201.13,Telecom ISP,Under Monitoring
+IP0096,119.69.236.93,Telecom ISP,Suspicious
+IP0097,107.167.108.232,Unknown ISP,Suspicious
+IP0098,204.194.142.215,Unknown ISP,Malicious
+IP0099,130.9.26.179,Cloud Provider,Under Monitoring
+IP0100,27.20.15.126,Cloud Provider,Malicious
+IP0101,169.78.122.64,Enterprise ISP,Under Monitoring
+IP0102,39.111.238.131,Unknown ISP,Malicious
+IP0103,165.58.83.159,Telecom ISP,Under Monitoring
+IP0104,16.159.192.203,Cloud Provider,Malicious
+IP0105,161.124.52.154,Telecom ISP,Under Monitoring
+IP0106,210.21.177.219,Unknown ISP,Malicious
+IP0107,139.174.6.215,Enterprise ISP,Malicious
+IP0108,120.185.235.78,Enterprise ISP,Malicious
+IP0109,197.138.247.238,Enterprise ISP,Under Monitoring
+IP0110,161.137.165.125,Telecom ISP,Suspicious
+IP0111,235.230.124.237,Enterprise ISP,Suspicious
+IP0112,17.253.166.93,Enterprise ISP,Malicious
+IP0113,100.132.174.143,Unknown ISP,Under Monitoring
+IP0114,12.97.43.123,Enterprise ISP,Suspicious
+IP0115,152.123.243.251,Enterprise ISP,Malicious
+IP0116,33.150.113.207,Cloud Provider,Suspicious
+IP0117,179.188.242.176,Enterprise ISP,Under Monitoring
+IP0118,150.169.180.232,Unknown ISP,Suspicious
+IP0119,74.118.61.98,Unknown ISP,Malicious
+IP0120,200.94.98.110,Enterprise ISP,Suspicious
+IP0121,195.144.51.99,Unknown ISP,Malicious
+IP0122,102.91.154.7,Cloud Provider,Suspicious
+IP0123,21.27.149.64,Enterprise ISP,Malicious
+IP0124,233.6.145.240,Enterprise ISP,Suspicious
+IP0125,97.94.26.129,Enterprise ISP,Malicious
+IP0126,220.33.205.251,Telecom ISP,Under Monitoring
+IP0127,171.27.77.76,Unknown ISP,Malicious
+IP0128,73.60.213.115,Enterprise ISP,Suspicious
+IP0129,242.226.152.219,Unknown ISP,Under Monitoring
+IP0130,168.30.50.106,Cloud Provider,Suspicious
+IP0131,179.41.80.122,Cloud Provider,Under Monitoring
+IP0132,29.80.1.209,Enterprise ISP,Under Monitoring
+IP0133,162.240.149.16,Cloud Provider,Suspicious
+IP0134,190.144.232.36,Cloud Provider,Suspicious
+IP0135,211.101.217.58,Cloud Provider,Under Monitoring
+IP0136,48.136.72.36,Telecom ISP,Malicious
+IP0137,212.157.147.224,Telecom ISP,Suspicious
+IP0138,186.155.206.139,Enterprise ISP,Suspicious
+IP0139,30.20.221.165,Unknown ISP,Malicious
+IP0140,33.117.10.137,Telecom ISP,Malicious
+IP0141,130.226.142.92,Enterprise ISP,Under Monitoring
+IP0142,218.251.46.240,Unknown ISP,Suspicious
+IP0143,95.164.53.82,Unknown ISP,Suspicious
+IP0144,187.253.147.205,Telecom ISP,Suspicious
+IP0145,32.161.129.165,Telecom ISP,Suspicious
+IP0146,231.0.236.211,Telecom ISP,Malicious
+IP0147,142.185.255.226,Telecom ISP,Malicious
+IP0148,78.67.147.224,Enterprise ISP,Malicious
+IP0149,17.122.81.159,Telecom ISP,Under Monitoring
+IP0150,114.47.115.58,Enterprise ISP,Malicious
+IP0151,175.78.255.149,Unknown ISP,Suspicious
+IP0152,223.247.241.124,Enterprise ISP,Under Monitoring
+IP0153,47.196.97.69,Telecom ISP,Suspicious
+IP0154,207.212.174.136,Telecom ISP,Suspicious
+IP0155,195.152.250.76,Enterprise ISP,Under Monitoring
+IP0156,133.176.170.193,Enterprise ISP,Suspicious
+IP0157,232.96.122.196,Cloud Provider,Suspicious
+IP0158,21.162.242.195,Enterprise ISP,Under Monitoring
+IP0159,212.77.253.18,Cloud Provider,Under Monitoring
+IP0160,161.169.51.225,Telecom ISP,Under Monitoring
+IP0161,243.233.7.73,Enterprise ISP,Under Monitoring
+IP0162,49.38.240.135,Unknown ISP,Under Monitoring
+IP0163,187.203.41.168,Enterprise ISP,Suspicious
+IP0164,170.249.18.35,Cloud Provider,Under Monitoring
+IP0165,185.147.116.46,Enterprise ISP,Malicious
+IP0166,204.51.227.85,Unknown ISP,Malicious
+IP0167,21.166.28.150,Unknown ISP,Suspicious
+IP0168,120.74.125.210,Cloud Provider,Malicious
+IP0169,54.40.195.123,Enterprise ISP,Under Monitoring
+IP0170,46.118.236.130,Enterprise ISP,Suspicious
+IP0171,180.4.238.147,Cloud Provider,Malicious
+IP0172,123.176.153.217,Unknown ISP,Suspicious
+IP0173,226.154.101.196,Enterprise ISP,Malicious
+IP0174,70.195.183.151,Unknown ISP,Malicious
+IP0175,222.202.140.4,Telecom ISP,Under Monitoring
+IP0176,200.254.146.117,Unknown ISP,Malicious
+IP0177,172.97.128.70,Telecom ISP,Under Monitoring
+IP0178,175.20.158.225,Telecom ISP,Under Monitoring
+IP0179,103.67.46.151,Unknown ISP,Under Monitoring
+IP0180,116.89.102.67,Unknown ISP,Under Monitoring
+IP0181,138.139.84.131,Enterprise ISP,Suspicious
+IP0182,201.173.58.239,Telecom ISP,Malicious
+IP0183,203.115.203.187,Telecom ISP,Suspicious
+IP0184,13.135.63.232,Unknown ISP,Under Monitoring
+IP0185,201.134.195.190,Telecom ISP,Under Monitoring
+IP0186,69.241.12.167,Cloud Provider,Under Monitoring
+IP0187,26.237.154.209,Telecom ISP,Malicious
+IP0188,21.19.155.252,Telecom ISP,Malicious
+IP0189,70.69.198.232,Unknown ISP,Under Monitoring
+IP0190,200.214.79.212,Telecom ISP,Suspicious
+IP0191,167.208.143.16,Unknown ISP,Malicious
+IP0192,123.227.120.185,Telecom ISP,Under Monitoring
+IP0193,104.183.31.203,Unknown ISP,Malicious
+IP0194,41.232.46.108,Telecom ISP,Malicious
+IP0195,211.170.124.64,Cloud Provider,Malicious
+IP0196,222.106.110.119,Unknown ISP,Malicious
+IP0197,211.1.141.74,Cloud Provider,Under Monitoring
+IP0198,74.89.56.13,Cloud Provider,Malicious
+IP0199,101.121.165.8,Cloud Provider,Suspicious
+IP0200,23.64.215.58,Telecom ISP,Suspicious
+IP0201,124.185.55.231,Cloud Provider,Under Monitoring
+IP0202,21.154.234.15,Telecom ISP,Suspicious
+IP0203,226.205.218.55,Enterprise ISP,Under Monitoring
+IP0204,242.227.37.41,Unknown ISP,Under Monitoring
+IP0205,47.33.64.140,Unknown ISP,Suspicious
+IP0206,162.150.232.220,Telecom ISP,Under Monitoring
+IP0207,39.110.220.231,Cloud Provider,Suspicious
+IP0208,96.232.204.212,Telecom ISP,Suspicious
+IP0209,119.160.130.191,Cloud Provider,Under Monitoring
+IP0210,246.242.34.46,Telecom ISP,Malicious
+IP0211,120.49.190.66,Telecom ISP,Under Monitoring
+IP0212,153.168.62.210,Unknown ISP,Under Monitoring
+IP0213,250.216.26.147,Unknown ISP,Suspicious
+IP0214,36.108.79.246,Cloud Provider,Malicious
+IP0215,99.188.58.142,Cloud Provider,Suspicious
+IP0216,226.13.136.14,Cloud Provider,Suspicious
+IP0217,189.158.173.179,Telecom ISP,Malicious
+IP0218,232.73.205.35,Cloud Provider,Under Monitoring
+IP0219,172.15.46.110,Enterprise ISP,Suspicious
+IP0220,126.174.80.189,Unknown ISP,Under Monitoring
+IP0221,93.43.26.79,Cloud Provider,Under Monitoring
+IP0222,22.41.139.226,Enterprise ISP,Suspicious
+IP0223,165.226.212.139,Cloud Provider,Under Monitoring
+IP0224,39.176.220.56,Unknown ISP,Under Monitoring
+IP0225,183.249.157.23,Cloud Provider,Suspicious
+IP0226,163.28.3.104,Unknown ISP,Malicious
+IP0227,206.70.130.148,Unknown ISP,Malicious
+IP0228,11.254.220.89,Cloud Provider,Suspicious
+IP0229,146.117.181.36,Enterprise ISP,Under Monitoring
+IP0230,20.223.9.235,Telecom ISP,Suspicious
+IP0231,157.219.207.213,Unknown ISP,Malicious
+IP0232,113.10.166.87,Enterprise ISP,Under Monitoring
+IP0233,245.185.45.223,Telecom ISP,Malicious
+IP0234,121.205.40.202,Unknown ISP,Under Monitoring
+IP0235,96.113.170.86,Telecom ISP,Under Monitoring
+IP0236,172.58.99.178,Unknown ISP,Under Monitoring
+IP0237,219.75.120.52,Cloud Provider,Suspicious
+IP0238,60.88.78.38,Cloud Provider,Under Monitoring
+IP0239,136.237.229.165,Unknown ISP,Malicious
+IP0240,122.34.240.226,Unknown ISP,Suspicious
+IP0241,161.28.180.37,Unknown ISP,Suspicious
+IP0242,125.19.29.188,Unknown ISP,Malicious
+IP0243,175.46.196.236,Telecom ISP,Suspicious
+IP0244,242.96.164.243,Cloud Provider,Malicious
+IP0245,125.52.175.43,Cloud Provider,Malicious
+IP0246,73.224.224.81,Unknown ISP,Suspicious
+IP0247,244.144.198.209,Unknown ISP,Under Monitoring
+IP0248,163.26.171.33,Unknown ISP,Malicious
+IP0249,152.197.145.129,Cloud Provider,Suspicious
+IP0250,30.72.179.158,Enterprise ISP,Malicious
+IP0251,162.43.158.192,Unknown ISP,Malicious
+IP0252,181.47.216.185,Telecom ISP,Suspicious
+IP0253,89.92.109.174,Enterprise ISP,Malicious
+IP0254,67.70.79.39,Unknown ISP,Malicious
+IP0255,139.19.172.67,Enterprise ISP,Malicious
+IP0256,51.92.84.224,Telecom ISP,Suspicious
+IP0257,103.121.227.145,Enterprise ISP,Malicious
+IP0258,146.122.158.240,Cloud Provider,Suspicious
+IP0259,183.225.236.144,Enterprise ISP,Under Monitoring
+IP0260,145.214.82.102,Cloud Provider,Suspicious
+IP0261,23.246.190.52,Telecom ISP,Suspicious
+IP0262,31.82.139.230,Cloud Provider,Suspicious
+IP0263,33.113.230.178,Telecom ISP,Suspicious
+IP0264,23.202.191.120,Enterprise ISP,Malicious
+IP0265,105.114.14.163,Telecom ISP,Under Monitoring
+IP0266,176.171.74.70,Telecom ISP,Suspicious
+IP0267,244.241.71.240,Enterprise ISP,Under Monitoring
+IP0268,11.40.9.131,Cloud Provider,Malicious
+IP0269,150.216.56.147,Cloud Provider,Suspicious
+IP0270,41.24.122.214,Enterprise ISP,Malicious
+IP0271,38.255.8.123,Cloud Provider,Suspicious
+IP0272,119.0.180.123,Enterprise ISP,Malicious
+IP0273,180.43.184.34,Telecom ISP,Suspicious
+IP0274,233.240.22.198,Unknown ISP,Suspicious
+IP0275,201.8.182.34,Unknown ISP,Malicious
+IP0276,197.53.170.68,Telecom ISP,Suspicious
+IP0277,149.173.89.237,Enterprise ISP,Under Monitoring
+IP0278,56.69.32.234,Telecom ISP,Suspicious
+IP0279,61.22.102.21,Unknown ISP,Suspicious
+IP0280,141.203.242.129,Telecom ISP,Under Monitoring
+IP0281,58.146.182.24,Unknown ISP,Suspicious
+IP0282,41.188.223.204,Enterprise ISP,Suspicious
+IP0283,96.95.254.254,Unknown ISP,Under Monitoring
+IP0284,78.42.217.40,Enterprise ISP,Under Monitoring
+IP0285,220.92.150.164,Telecom ISP,Malicious
+IP0286,93.151.156.228,Enterprise ISP,Malicious
+IP0287,186.227.179.228,Telecom ISP,Under Monitoring
+IP0288,232.180.222.140,Telecom ISP,Malicious
+IP0289,181.207.186.81,Telecom ISP,Malicious
+IP0290,227.224.17.64,Telecom ISP,Malicious
+IP0291,209.187.185.196,Telecom ISP,Under Monitoring
+IP0292,49.230.189.190,Enterprise ISP,Malicious
+IP0293,156.70.187.203,Unknown ISP,Under Monitoring
+IP0294,81.127.58.13,Cloud Provider,Suspicious
+IP0295,142.198.60.134,Unknown ISP,Under Monitoring
+IP0296,124.109.146.251,Cloud Provider,Malicious
+IP0297,44.37.231.88,Enterprise ISP,Malicious
+IP0298,217.163.177.33,Unknown ISP,Suspicious
+IP0299,227.80.89.185,Cloud Provider,Malicious
+IP0300,61.71.121.252,Telecom ISP,Suspicious

@@ -1,0 +1,8 @@
+System_ID,System_Name,System_Type,Business_Criticality
+SYS01,Web Server 01,Web,High
+SYS02,Database Cluster,Database,Critical
+SYS03,Email Gateway,Application,Medium
+SYS04,API Server,Web,High
+SYS05,ERP System,Enterprise,Critical
+SYS06,Firewall Appliance,Security,Critical
+SYS07,Cloud VM Instance,Cloud,High

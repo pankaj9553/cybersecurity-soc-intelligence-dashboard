@@ -1,0 +1,11 @@
+Attack_Type_ID,Attack_Type,MITRE_Tactic
+AT01,DDoS,Impact
+AT02,Brute Force,Credential Access
+AT03,Botnet,Command & Control
+AT04,Port Scan,Reconnaissance
+AT05,SQL Injection,Initial Access
+AT06,Phishing,Social Engineering
+AT07,Ransomware,Impact
+AT08,Malware Download,Execution
+AT09,Privilege Escalation,Privilege Escalation
+AT10,Data Exfiltration,Exfiltration
